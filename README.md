@@ -1,2 +1,2 @@
 # Drive-Them-All-Controls-Support
-🎮🎨 Capture, Train, and Drive your Controls in Blender!
+Support page for the Drive Them All - CC addon (for Blender) 🎮
